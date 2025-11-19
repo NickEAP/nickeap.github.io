@@ -1,4 +1,4 @@
-![](https://www.lboro.ac.uk/media/media/services/studentservices/alss/Studying.jpg)
+![](https://www.lboro.ac.uk/media/media/services/studentservices/alss/Studying.jpg){height=400}
 
 # About us
 
