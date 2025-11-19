@@ -10,6 +10,23 @@ You can:
 - Boost your writing by accessing the [Dissertation and Project Success module](https://learn.lboro.ac.uk/course/view.php?id=23649).
 - Achieve success in your academic writing tasks for STEM subjects with the [STEM Writing module](https://learn.lboro.ac.uk/course/view.php?id=24989).
 # News
+## Academic writing  and Library drop-ins for the School of Social Sciences and Humanities
+**Do you ever ask yourself…**
+- How can I write more clearly?
+- How can I reference accurately?
+- Does my writing flow?
+- How can I find information sources for my assignment?
+- Is my writing ‘academic’ enough?
+  
+Why not come along to one of our drop- in sessions?
+Academic Language Support and Library staff†  will be on hand to answer your questions and provide advice.
+
+- Tuesday 18th November 12- 2 IRPH Foyer, Bell Building
+- Thursday 27th November 12-2 Geography Foyer, Bell Building
+- Wednesday 3rd December 12-2  U.3.05 Student Hub, 3rd floor Brockington Extension
+
+Library staff available on 18th and 27th November.
+
 # MS Teams Pages for Schools
 - [Aeronautical, Automotive, Chemical and Materials Engineering (AACME)](https://teams.microsoft.com/l/team/19%3Ant2k2DCKLHcM8jvF5z378lyXsVhisGVgAEMmGtV0oZI1%40thread.tacv2/conversations?groupId=66bd17b4-a76b-4de8-b567-1b6d9a09663f&tenantId=cf264fc0-aeb8-449f-9054-82ce4454084b)
 - [Architecture, Building and Civil Engineering (ABCE)](https://teams.microsoft.com/l/team/19%3AA5oYsD-ZIGUjvpdHkojDoilm4sUkTI17xc6WRfeQwZY1%40thread.tacv2/conversations?groupId=e2b94350-1e85-4e53-9987-8a09658dab38&tenantId=cf264fc0-aeb8-449f-9054-82ce4454084b)
