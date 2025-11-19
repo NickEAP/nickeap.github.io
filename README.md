@@ -1,5 +1,4 @@
-# Academic Language Support Service
-## MS Teams Pages
+# MS Teams Pages
 - [Aeronautical, Automotive, Chemical and Materials Engineering (AACME)](https://teams.microsoft.com/l/team/19%3Ant2k2DCKLHcM8jvF5z378lyXsVhisGVgAEMmGtV0oZI1%40thread.tacv2/conversations?groupId=66bd17b4-a76b-4de8-b567-1b6d9a09663f&tenantId=cf264fc0-aeb8-449f-9054-82ce4454084b)
 - [Architecture, Building and Civil Engineering (ABCE)](https://teams.microsoft.com/l/team/19%3AA5oYsD-ZIGUjvpdHkojDoilm4sUkTI17xc6WRfeQwZY1%40thread.tacv2/conversations?groupId=e2b94350-1e85-4e53-9987-8a09658dab38&tenantId=cf264fc0-aeb8-449f-9054-82ce4454084b)
 - [Loughborough Business School (LB)](https://teams.microsoft.com/l/team/19%3AsAELdw68KSNdiLCPScDUUnvb0lssGOcihzh2BEyJveo1%40thread.tacv2/conversations?groupId=e559980f-99ae-4d1a-a47d-651579a00d34&tenantId=cf264fc0-aeb8-449f-9054-82ce4454084b)
