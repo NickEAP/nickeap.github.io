@@ -9,6 +9,7 @@ You can:
 - Develop your [English language skills](https://learn.lboro.ac.uk/course/view.php?id=6345) if English is not your first language.
 - Boost your writing by accessing the [Dissertation and Project Success module](https://learn.lboro.ac.uk/course/view.php?id=23649).
 - Achieve success in your academic writing tasks for STEM subjects with the [STEM Writing module](https://learn.lboro.ac.uk/course/view.php?id=24989).
+  
 # News
 ## Academic writing  and Library drop-ins for the School of Social Sciences and Humanities
 **Do you ever ask yourself…**
@@ -18,8 +19,7 @@ You can:
 - How can I find information sources for my assignment?
 - Is my writing ‘academic’ enough?
   
-Why not come along to one of our drop- in sessions?
-Academic Language Support and Library staff†  will be on hand to answer your questions and provide advice.
+**Why not come along to one of our drop- in sessions?** Academic Language Support and Library staff†  will be on hand to answer your questions and provide advice.
 
 - Tuesday 18th November 12- 2 IRPH Foyer, Bell Building
 - Thursday 27th November 12-2 Geography Foyer, Bell Building
