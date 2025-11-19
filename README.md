@@ -1,5 +1,5 @@
 
-<img src="https://www.lboro.ac.uk/media/media/services/studentservices/alss/Studying.jpg" width="400"/>
+<img src="Studying.jpg" width="400"/>
 
 # About us
 
