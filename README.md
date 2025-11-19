@@ -1,3 +1,4 @@
+![](https://www.lboro.ac.uk/media/media/services/studentservices/alss/Studying.jpg)
 # About us
 Whether you are an undergraduate, postgraduate taught or PhD student, we want to help you achieve your full academic potential. You can access resources, group and 1:1 support from the award-winning Academic Language Support Service.
 From utilising interactive online resources to meeting with one of our academic writing specialists, there is a range of support you can access. 
